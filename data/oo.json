@@ -1,0 +1,29 @@
+{
+  "auth": {
+    "username": "oo",
+    "password_hash": "85b62eea3b3a35b69e5d6cb0cbdd8062e5b78a5fe0fe1b355d89cd6cdf98a7f2",
+    "salt": "9d06d58bda33c18ad67f522795508586",
+    "iterations": 100000
+  },
+  "transactions": [
+    {
+      "amount": 200.0,
+      "category": "Bills",
+      "ttype": "expense",
+      "date": "2025-08-13T14:14:29Z"
+    },
+    {
+      "amount": 99.0,
+      "category": "Entertainment",
+      "ttype": "income",
+      "date": "2025-08-13T14:14:38Z"
+    }
+  ],
+  "budgets": {
+    "Entertainment": 0,
+    "Bills": 111.0,
+    "Transport": 0,
+    "Other": 333.0,
+    "Food": 0
+  }
+}

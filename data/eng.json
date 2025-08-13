@@ -1,0 +1,16 @@
+{
+    "auth": {
+        "username": "eng",
+        "password_hash": "31ce1d2a2c74e85d35e0d2de6c43c49c23be773781df53b1514c065c0a48fbaf",
+        "salt": "54528ba78aa16dfedeade46e309faf1a",
+        "iterations": 100000
+    },
+    "transactions": [],
+    "budgets": {
+        "Transport": 0,
+        "Entertainment": 0,
+        "Food": 0,
+        "Bills": 0,
+        "Other": 0
+    }
+}
