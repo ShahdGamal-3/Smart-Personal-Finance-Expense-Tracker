@@ -1,2 +1,5 @@
 # Ignore user data directory
 data/
+
+# Keep exports/ directory private
+exports/
