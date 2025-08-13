@@ -45,11 +45,3 @@
 ## Example Data
 See the `data/` folder for sample user files after registration and usage.
 
-## Screenshots
-Add screenshots of the GUI and statistics graphs here.
-
-## Contributing
-Pull requests and suggestions are welcome!
-
-## License
-MIT
